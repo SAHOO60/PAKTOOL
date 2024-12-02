@@ -8,7 +8,7 @@ apt update && apt upgrade
 pkg install git
 ```
 ```
-git clone https://github.com/learner098/PakTool
+git clone https://github.com/SAHOO60/PakTool.git
 ```
 ```
 cd PakTool
