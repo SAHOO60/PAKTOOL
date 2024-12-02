@@ -19,7 +19,7 @@ chmod +x setup
 ```
 bash setup
 ```
-
+```
 ls
 cd PakTool
 bash setup
